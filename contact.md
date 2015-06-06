@@ -7,9 +7,9 @@ title: Yeoubi
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
     <p class="intro">If you have questions about the posts feel free to email me or leave a message.</p>
-    <p>Email : mu29gl@gmail.com<br/>Phone : +82 10 7224 9537<br/>KaKaoTalk : mu29kakao<br/>Skype : mu29_skype<br/>HomePage : tinystar.co.kr</p>
+    <p>Email : ghc21@naver.com<br/>Phone : +82 10 3128 6115<br/>KaKaoTalk : slayer2<br/>Skype : kaizer4881<br/>HomePage : blog.unidev.kr.pe</p>
   </div>  
-  <form action="http://formspree.io/mu29gl@gmail.com">
+  <form action="http://formspree.io/ghc21@naver.com">
     <label for="name">Name</label>    
     <input type="text" id="name" name="name" class="full-width"><br>
     <label for="email">Email Address</label>
