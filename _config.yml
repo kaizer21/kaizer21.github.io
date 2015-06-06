@@ -1,7 +1,6 @@
-title: YEOUBI
-description: 
-
-url: http://mu29.github.io
+title: UNIDEV
+description: Ji Hun, Choi's blog
+url: http://kaizer21.github.io
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -21,8 +20,8 @@ navigation:
    url: /contact.html
 
 social:
-   github: mu29
-   facebook: mu29
-   email: mu29gl@gmail.com
+   github: kaizer21
+   facebook: 
+   email: ghc21@naver.com
 
-google_analytics: "UA-63387097-1"
+google_analytics: ""
